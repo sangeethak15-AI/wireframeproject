@@ -12,7 +12,9 @@ Write your design steps here
 Write your design steps here
 
 ## OUTPUT:
-include your output screenshots 
+![output](./HP.png)
+![output](./ABU.png)
+![output](./AD.png)
 
 
 ## Result:
